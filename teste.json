@@ -1,0 +1,20 @@
+var education = {
+  "schools" : [
+    {
+      "name" : "Estácio",
+      "city" : "Rio de janeiro",
+      "majors" : "IT",
+      "minors" : "WTF?",
+      "years" : "4",
+      "online" : "http://www.teste.com"
+    },
+    {
+      "name" : "CEFET",
+      "city" : "Rio de janeiro",
+      "majors" : "Eletrônica",
+      "minors" : "WTF?",
+      "years" : "3",
+      "online" : "http://www.teste.com"
+    }
+  ]
+}
